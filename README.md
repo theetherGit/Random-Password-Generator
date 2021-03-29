@@ -1,3 +1,6 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Package-Pygame-orange)](https://www.pygame.org/)
+
 # Random-Password-Generator
 A GUI app for generating Random Passwords for you.
 ### Libraries Used
